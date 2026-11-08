@@ -1,0 +1,10 @@
+# Source data was provided for educational use; redistribution rights are not verified.
+data/raw/*.csv
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
